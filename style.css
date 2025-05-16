@@ -1,0 +1,179 @@
+* {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #425833;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  padding: 1rem;
+  color: #DA9D9D;
+  background-color: #556377;
+}
+
+
+.container {
+  width: 0 auto;
+  margin: 0 auto;
+}
+
+.image-container {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #838080;
+}
+
+.image-container img {
+  display: block;
+  margin: 2rem auto 1rem;
+  width: 1000px;
+  height: 600px;
+  border-radius: 20px;
+}
+
+.image-container p {
+  text-align: center;
+  font-weight: bold;
+  color: #a36b6b;
+}
+
+.texto__cabecalho {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 300px;
+  font-size: 80px;
+  font-weight: 4000;
+}
+.cabecalho__botao {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 5%;
+  font-size: 25px;
+  font-weight: 400;
+  font-family: "Poetsen One", sans-serif;
+}
+a.cabecalho__botao {
+  width: 180px;
+  height: 30px;
+  color: #5fb13b;
+  padding: 20px;
+  border: 5px solid #5fb13b;
+  text-align: center;
+}
+
+img {
+  border: 5px double #292f32;
+  border-radius: 10%;
+}
+h1 {
+  color: blanchedalmond;
+}
+h1{
+  text-align: center;
+  font-size: 2rem;
+  padding: 2rem;
+  color:#DA9D9D;
+  background-color: #556377;
+}
+
+video {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #444;
+  width: 100%;
+  height: 100%;
+   border-radius: 2rem;
+}
+
+p {
+  color: blanchedalmond;
+}
+
+p {
+  margin-top: 0;
+}
+
+.container > div {
+  cursor: pointer;
+  display: block;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+footer img {
+  width: 40px;
+  height: 40px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+footer a {
+  margin: 20px;
+  text-align: center;
+}
+
+footer p {
+margin-top: 2px;
+margin-top: 2px;
+font-size: 14px;
+text-transform: uppercase;
+
+background: linear-gradient(45deg, #638ED1, #ff0000, #009688,#44E3D3);
+background-size: 400% 100%;
+animation: degrade 10s linear infinite alternate;
+
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+outline: none;
+}
+
+@keyframes degrade {
+0%{
+    background-position-x: 0%;
+}
+
+100%{
+    background-position: 400%;
+}
+
+p{
+font-size: 16px;
+color: green;
+}
+
+.texto{
+  font-size: 30px;
+  text-transform: uppercase;
+
+  background: linear-gradient(45deg, #638ED1, #ff0000, #009688,#44E3D3);
+  background-size: 400% 100%;
+  animation: degrade 10s linear infinite alternate;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  outline: none;
+}
+
+@keyframes degrade {
+  0%{
+      background-position-x: 0%;
+  }
+
+  100%{
+      background-position: 400%;
+  }
+}
