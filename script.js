@@ -6,7 +6,7 @@ let audios = [
     {caminho:'planeta.mp3', legenda:'Planeta azul'},
     {caminho:'reino.mp3', legenda:'Reino encantado'},
     {caminho:'terra.mp3', legenda:'Terra'},
-    {caminho:'Pequeno.mp3', legenda:'Pequeno'},
+    {caminho:'pequeno.mp3', legenda:'Pequeno'},
     {caminho:'agricultor.mp3', legenda:'Agricultor'},
 ];
 
