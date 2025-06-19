@@ -34,7 +34,6 @@ PEQUENO AGRICULTOR - ADSON & ALANA
 
 Homenagem ao Agricultor · Júlio e Marciel · GERALDO DOMINGUES RODRIGUES
 
-Vídeo:
 
 Texto do link "ou o que eu acessei " ([https://www.youtube.com/results?search_query=musicas+do+campo+pequeno+agricultor ]). Acesso em: Acesso em: 19/06/2025 .
 
