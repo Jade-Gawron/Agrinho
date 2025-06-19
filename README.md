@@ -1,8 +1,22 @@
-# Agrinho
+Projeto Agrinho 2025
 
-Referências das músicas 
+Autor:	JADE GAWRON TERRA
 
-"Obra-Prima da Natureza"-Oswaldo Montenegro- Música: “Tempo das águas"-CD Canções de Amor.wmv
+Professor: Rafael Assis Santos
+
+Escola: Colégio Estadual Rio Branco
+
+Cidade: Rio Branco do Ivaí
+
+Tema : Músicas campo: Vida pra cidade
+
+Site:https://br.freepik.com/
+
+Referencias:https://br.freepik.com/
+
+Imagens:https://br.freepik.com/
+
+Musica: "Obra-Prima da Natureza"-Oswaldo Montenegro- Música: “Tempo das águas"-CD Canções de Amor.wmv
 
 Cezar & Paulinho - Obrigado Ao Homem Do Campo - Alma Sertaneja
 
@@ -19,3 +33,13 @@ A Força Do Agro - Rafael Marques
 PEQUENO AGRICULTOR - ADSON & ALANA
 
 Homenagem ao Agricultor · Júlio e Marciel · GERALDO DOMINGUES RODRIGUES
+
+Vídeo:
+
+Texto do link "ou o que eu acessei " ([https://www.youtube.com/results?search_query=musicas+do+campo+pequeno+agricultor ]). Acesso em: Acesso em: 19/06/2025 .
+
+Links para acessar o Site: https://jade-gawron.github.io/Agrinho/.
+
+Repositorio aluno " ([https://github.com/Jade-Gawron/Agrinho]). Acesso em: 19/06/2025 .
+
+Links para acessar o Site: https://jade-gawron.github.io/Agrinho/
