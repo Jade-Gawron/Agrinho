@@ -8,7 +8,7 @@ Escola: Colégio Estadual Rio Branco
 
 Cidade: Rio Branco do Ivaí
 
-Tema : Músicas campo: Vida pra cidade
+Tema : Músicas do campo: Vida pra cidade
 
 Site:https://br.freepik.com/
 
